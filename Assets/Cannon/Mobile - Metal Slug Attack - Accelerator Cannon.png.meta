@@ -1,0 +1,5877 @@
+fileFormatVersion: 2
+guid: 58b3148c24cc5cd4b9046bb01345ae8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2509
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc18205b2f0e544485a40f2ecc663ea
+      internalID: 856062746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2255
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788fbba9d56ad3498bcb704101c6d9a
+      internalID: 101718737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2255
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c81de5d9b1af41bba6a1997565eca
+      internalID: -1789341473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2216
+        width: 73
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c016adc561e7a2645beb7e32a6527c27
+      internalID: -1462636127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1974
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d87dbd9500b04bb377a0ea1f0f259
+      internalID: -1288856929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1971
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6404e1c51911842b0e865d13eb943e
+      internalID: 1550838363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_6
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1978
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad64500bc2ebec349920e3482838a62f
+      internalID: 1895727025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1977
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d04c071c35b85e4d80f51058034da67
+      internalID: -1116461248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1978
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522187a773593743afcd1caf1aad29d
+      internalID: -1371869057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_9
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1979
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054f42484f8afd41b8264b09a1d72c2
+      internalID: 624579802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1747
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ff7d47c1ed2434cb10b16d564b1522
+      internalID: 1649759173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1746
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d08f52af877b4b9d034d19bb35eef
+      internalID: 404583185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1746
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3bf30ea3b95b949869e187089c7fb1
+      internalID: 930985337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_13
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1746
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc52600e57db4cf42a0824ed17e994d3
+      internalID: -799066566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1746
+        width: 211
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10881f1798494e048af0518f6c84d75f
+      internalID: -1218852566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_15
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1747
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d08ddf624b40d47a8d38ea0b5c58a0
+      internalID: -1440195107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1695
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a261f0492b06b48acee736b767c20b
+      internalID: 1032726606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1695
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2b340263312149b4931e5155bc5c3
+      internalID: -914870330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1695
+        width: 71
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8564f11f875a7b645830f3f46ed2fb0f
+      internalID: 646348711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1432
+        width: 210
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea138fafb2c645f49bf012197804e278
+      internalID: -1080622873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1432
+        width: 211
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c468deba665d249ab3709d54cce2f7
+      internalID: 1975179523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1432
+        width: 210
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8be5f7e5df5b249baeb6f495c468cc
+      internalID: 1023142181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_22
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1429
+        width: 209
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3133d4e82d0c149b2af164d68e056e
+      internalID: -671256910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1429
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea154a008fb0474fb723ae249b4b802
+      internalID: -1589232254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_24
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1428
+        width: 211
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98c1d328bf1ba4c928592f5e84e245
+      internalID: -1490634151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_25
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1428
+        width: 209
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea48743531b0ba4595d11596322324e
+      internalID: 735800903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_26
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1428
+        width: 211
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbcdcc7ae2de946894598e1a7338dc
+      internalID: 529326408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1388
+        width: 78
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd190a2aafdf94dbb0dcde039ee397
+      internalID: 1931201611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1388
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c658f04f4c7dd740aabd31693acba6d
+      internalID: -2024013135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1147
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e74c78e1909e94cb2d74df8a76110c
+      internalID: -915774423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1147
+        width: 211
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3a562f02adbd341986c3d30491d1c1
+      internalID: -1011999766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_31
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1148
+        width: 211
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095c8c7c4a501d4abd42f2c362da289
+      internalID: -165727694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_32
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1148
+        width: 209
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1d60a71aef984b800a67370b9f8dc
+      internalID: -1077942805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_33
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1149
+        width: 209
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f60c58cc62e61419035e639d56131c
+      internalID: 714025434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_34
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1149
+        width: 209
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4dacccba1b3754999e175ac4972447
+      internalID: -829979414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_35
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1149
+        width: 211
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b53bfed8bd9e4997aa58fc29f4b0b
+      internalID: -1837157309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_36
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1151
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc181edd6bab7147ad6193f8431261c
+      internalID: -1660878909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_37
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1147
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138f7841ccba15438ea8ba6e0abd98f
+      internalID: 1724569108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_38
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1120
+        width: 104
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bfbedca5e46fc4c88cddd67baab566
+      internalID: 1494630367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 911
+        width: 211
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce08e11ede6d644a9337424ca0acfac
+      internalID: 873532215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 911
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd47505f1c4334e4f8cea6958d3b1cd2
+      internalID: -1792123242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 910
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40c57498f4f294ab5618fabbfb9f13
+      internalID: 391837005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_42
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 910
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57de0897e89df8c498fba095c278c76c
+      internalID: -374231138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 921
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800117ffdb36c664ba809c9d8d5e296f
+      internalID: 1682116970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_44
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 921
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c5231558e05e439e1393330fb9837
+      internalID: -1194169626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_45
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 921
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c7858eed507654493e5556edc0405c
+      internalID: -1227827038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_46
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 921
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38cec1e981c00f438b3a280c42fcaf7
+      internalID: 1140073366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_47
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 908
+        width: 245
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b39ca2e1169014db86d7b09f55bd4c
+      internalID: -284263552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 867
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a67f534fe2f6f541affd68358fb895c
+      internalID: -2136752910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 776
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabcba75d0b5ec43954538135c2f556
+      internalID: 853033644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 775
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2395f1106dbd9284783c85cb55dd2ce3
+      internalID: 538304506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 786
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acaf55f0979b2c4b868c90a72d22813
+      internalID: -327180624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 772
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c99ca18e2f5a4a9079dc52c616273
+      internalID: 39562904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_53
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 768
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6106ec9d1aa74344c95d6209aef2a5cc
+      internalID: 801771401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_54
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 767
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad960dd3d3680244a6a086c0e81321d
+      internalID: -985011544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_55
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 766
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee2e1917064dc40b754041c634cd70
+      internalID: 52649122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_56
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 763
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5820f66fddf38419dbb52512daa6c4
+      internalID: 1101354572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_57
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 775
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664c373cfc577174f865cc414626ceb6
+      internalID: -2096724322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 643
+        width: 253
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e88f7ff73f534da1b0008797062fb
+      internalID: -302489041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_59
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 749
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d961eac9f8360a48a45ed68184c9abb
+      internalID: -2010569695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_60
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 748
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ffaed51e05b043a52bca3e59db7dd
+      internalID: 1951250176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_61
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 745
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419360e859201b4d9063084c1993cc9
+      internalID: -1419121758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_62
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 739
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d8faa5e3dde04daf0fae4889e814b
+      internalID: 631505050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_63
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 739
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6056acdcd8296c4597c4046d1aed2c3
+      internalID: 1923638761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_64
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 739
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c23bcdfe00d614ebf0dc59e7923131
+      internalID: -1407973322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_65
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 739
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f07c2513547f344cb8e1182f1197d7f
+      internalID: -1051188035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 739
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad0efe659c8f74892ac2f029556400
+      internalID: -1048226660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_67
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 739
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cbdb2a126855c4aa2cda33293fdb08
+      internalID: -208876747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_68
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 739
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded1fff5eebdab4f83a8e1bf5a60733
+      internalID: -1660475157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_69
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 738
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9142e19b0be7ca4d994bdadd57e29ef
+      internalID: 140542003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_70
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 677
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77927e6b5eeca4a85f2798d2712587
+      internalID: 1973670118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 677
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a5a1077977344ebbbc32f8f2a77f8
+      internalID: 490225045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_72
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 672
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99318dbf085fe4a418fe13a91d43e555
+      internalID: -1223304751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_73
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 667
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f9aab4dd20a63438f3596ed95df221
+      internalID: 389269604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_74
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 663
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac37f5dbe5a0a4244826e07703e4a1ef
+      internalID: 955364600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_75
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 687
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93805d981ac9454eada551de6dac2b8
+      internalID: -547571745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_76
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 719
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675f00a480a16a46937c8040db19250
+      internalID: -1527369248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_77
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 720
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0595bedb463d449499947b893361b56d
+      internalID: -661498902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_78
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 685
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa26ef3b71a15549b2d29ca4cc1a517
+      internalID: 1941568157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5723b321f16c419f89f894c3ed60e
+      internalID: 564686404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_80
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 677
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2aac16b71f16458dbc6f377e5a111
+      internalID: -1370754241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_81
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 677
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e9767e70899a4aa65685985e88a68
+      internalID: 644766715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_82
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 677
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baab8024f2e3084fb32d03fad5a9868
+      internalID: 246992032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_83
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 677
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadef99078ca73045bf609a31bdd5733
+      internalID: 1122231225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_84
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 677
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d61be7c807e5546943bea48e5b9936
+      internalID: -1250604307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_85
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 677
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b51179b6cd6544088734e370f3cc49
+      internalID: -671429144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_86
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 677
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6487cf8337f02d14ab6ee6a117146e31
+      internalID: 958946422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_87
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 677
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8740ddd6dcbeb47b17f14fb8a7be0f
+      internalID: -1065643089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_88
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 677
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd44fd9af962b44bb9b43cf741a1cf
+      internalID: 682755981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_89
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 677
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71d683328e305e4fb7453b1d09936cc
+      internalID: -2018109298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_90
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 677
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf3a9bc3a69f445845ef70e57149ed
+      internalID: -445883765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_91
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 677
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf24eb4ef93353f4aa5712e9fe4dc321
+      internalID: 1220491245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_92
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 658
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f507de83511b4924d9ccc6b073e5c21d
+      internalID: -540339904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_93
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 697
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb7c4234b897954bafd4f58eee848fc
+      internalID: 75417045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_94
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 657
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89889d7c4a4e504409701daa22606ace
+      internalID: 1923466734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_95
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 582
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b9df75e8673f47b7a28d68d0863c5
+      internalID: -1893173201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_96
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 582
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce38d93344254248b54e6149d97d829
+      internalID: 1089252548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_97
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 582
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca184c4be91c54196bdfb6b081ea19
+      internalID: -1927858096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_98
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 586
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e289f1e7d4a6c4e91968438c8008c5
+      internalID: -640047567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_99
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 647
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635bd8a6ef63694ea155a0d204d00ba
+      internalID: -1643239633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_100
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 647
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fd82d0ee5bb8540acad7721fe36014
+      internalID: -1133058949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_101
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4484b34d746becf4491d9ea9ce49cf5a
+      internalID: 847953611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_102
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 587
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418aaf12ac2b9064991e4df31b0e6ede
+      internalID: -1892970734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_103
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 590
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff57ff53af0b8438d86e9a7eb624c1
+      internalID: -1102415760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_104
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 592
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca16ba9266c8f64a837f16d75ed2cb6
+      internalID: -81637891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 578
+        width: 743
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c35ae32c92ca64dbf5311f88a33ed4
+      internalID: 2108278921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_106
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 600
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4acfc397da9ea40b0c2905540e972f
+      internalID: 1916190193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_107
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 583
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd797a4233a054c999fd02bf495ed1
+      internalID: 172579972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_108
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 579
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4fe024dc132a48a5de6a81f104b6a
+      internalID: 1899778883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_109
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 586
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b1192a286acd34b943ddde935b3b94
+      internalID: 195913135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_110
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 591
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bee25cc1212dc44a9b30f66f33bfea
+      internalID: -1289611907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_111
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 591
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759acd426de74842851084cd3463ec2
+      internalID: 1193784057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_112
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 595
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6c76d920f0c84f8fdfd262aabe8a7
+      internalID: -1419763851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_113
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 590
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f68888fb32c214db8ae75b2543228c
+      internalID: -1769579604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_114
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 591
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a9064bd38d7744a347fcfb3afc4e4
+      internalID: 1393421936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_115
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 591
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607ad15a5daf1f4b8c66d736a185ef2
+      internalID: 290492808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_116
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 592
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb42b512c6aa149b0c95de4fa7f7f4
+      internalID: -2131398046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_117
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 585
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37500c07613c5c4ca5c4d1d10dd21e9
+      internalID: -760027063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_118
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 585
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127ea2df90e03547897460265b19d9f
+      internalID: -211342063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_119
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 587
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97bc2f8da5942342aa9df8fc93fe970
+      internalID: 1575551272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_120
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 511
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18c1dfe325368499f49532dac0801b
+      internalID: -410232792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_121
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 555
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276c1b847581b3f48be9249665695b50
+      internalID: 477497371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_122
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 511
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b05240ab93db9941acbf99b89842320
+      internalID: -357567594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_123
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 554
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f727219c0876a54fa71f5cc414ac310
+      internalID: -1111154458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_124
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 553
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71221a7e94dbd2f40a96607a58ded94a
+      internalID: -2106470249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_125
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 553
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a20451e1934fdd4d83d29e9609388d5
+      internalID: 607773027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_126
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 553
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408018b0bd2b2664784b747133f86e3a
+      internalID: 579720935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_127
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 553
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18abce57da25eff4d8d638aae6dd8228
+      internalID: -1807742937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_128
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 553
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b327928c38a8d04a9afe28d787d3b43
+      internalID: 2008069520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_129
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 540
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53ce073c526c240b6e5b4c49e7ed5e
+      internalID: -1385768723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_130
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 534
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fafe335e6231204995c86d037afff60
+      internalID: 1762378668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_131
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 540
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e94e2b0deaaf3946a6988b56fdb2599
+      internalID: -1121983905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_132
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 538
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff48daaa4f8814d8ad28f328e595fd
+      internalID: -1518969410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_133
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 535
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7ff251d17190f44880f9483f3beecb
+      internalID: -1705329206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_134
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 540
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cb4bf5161edd1418b4622d4c457ceb
+      internalID: -295795248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_135
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 538
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807bc831bd7a69b42ad20203beb409fe
+      internalID: -474525222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_136
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 535
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907af4846cafdc4ca4e4b581ef6a3f8
+      internalID: 1219448203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_137
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 538
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa1ab01c8bb813488adc3c5f5b9c5c1
+      internalID: -1723103806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_138
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 543
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95432ff845a6441bcec04eded1f400
+      internalID: 1258266382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_139
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 539
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd455ad5280a046bfd0c7f51ef12a1
+      internalID: -1378761683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_140
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 538
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d217a71e25334bb6cd202297fb0ff
+      internalID: -431872337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_141
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 543
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfd4725fe2a6164693e3e66df1b5f91
+      internalID: 202909607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_142
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 539
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0be38228cdfc54fb9eed943e8a43c4
+      internalID: 943670059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_143
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 545
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff922a4772b33246a626f5aecbb3104
+      internalID: 1442460119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_144
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 543
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565594b5e1e88014fb061fed29975c99
+      internalID: -962910834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_145
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 540
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5fd8314eea05545a5016a965915e6e
+      internalID: 1996342484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_146
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 549
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ba9c4e3916c941a6d45cd40bd25b4
+      internalID: -153434210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_147
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 543
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627473238c21ee745b57fe7e6f4c8e08
+      internalID: -1835472407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_148
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 545
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5ade48155aa44e97decad5dea32cd
+      internalID: 1855106344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_149
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 544
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb0482d9edcc440a4cbd497adc4f55
+      internalID: -457662149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_150
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 533
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4208ca4a147eb4ea81cb1f0aaa5b67
+      internalID: -516518521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_151
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 545
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3fc355d6528714da99e5e471a8a4b1
+      internalID: 716785159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_152
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 541
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23ebf4dc1dc53047b419f84abecb98d
+      internalID: 415535307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_153
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 534
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621f926cff1fec4a935b52019b927eb
+      internalID: 123211971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_154
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 524
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c0b4a37d09444784c1d26ddb7c330
+      internalID: 549870008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_155
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 515
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06c957b36e2ab47b94634ba4eac8d3
+      internalID: 851378349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_156
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 517
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6717d513fee61b4aa8c4e9699e20577
+      internalID: 213571223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_157
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 530
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528b91f947f3d50479a6ea9360a25e76
+      internalID: -1948065976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_158
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 530
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95ea5471b2d624bb62fffaa1e11a20
+      internalID: 876915058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_159
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 526
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a6ffbf8a49b0542b0958a58e1a5a5d
+      internalID: -42621324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_160
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 534
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a193a4f0935c2346a744a7057be35f3
+      internalID: 681795662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_161
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 530
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1425d97d25fd3d843b3b3fc700bac3e8
+      internalID: -548701536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_162
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 533
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea13baddb3b5e429b72fa64b05a34f
+      internalID: -257244961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_163
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 512
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa250ff6ab3a584498600fcc44bd4cdd
+      internalID: 857234489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_164
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 530
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e26d13d261094e9c93f5aa3303beb
+      internalID: -314568825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_165
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 521
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64b7912b7e569c4db28aec464f5bf84
+      internalID: -251652258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_166
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 519
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf9c9674935c34b8557d30964a1f79
+      internalID: 443545083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_167
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 528
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e2c260be1b3440b819df1c2c051f8
+      internalID: -1505145382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_168
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 530
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cc15e189f7fc04ca37a6f57662bea5
+      internalID: -1742435895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_169
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 528
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb02093e4a3e9264681e484bc0a66ba8
+      internalID: 1607741769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_170
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 511
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9739645fef29da4cb6b3c49ef23cdc7
+      internalID: 936156450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_171
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 521
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863a9059c3fdcf941974ff448f12cdc4
+      internalID: -84001911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_172
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 514
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236efb737d80ac4c8212409b5e47854
+      internalID: 259307474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_173
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 521
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e548656cdbb076c48b2ca9ea19cf8cbb
+      internalID: -1166871478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_174
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 520
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124b0b048c6ab094eae9756a274fab36
+      internalID: 1478588337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_175
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 526
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe78a2163fe0284ea429a68082e9178
+      internalID: -383052038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_176
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 524
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a887450f2c9a4aa90b87aec25e3fc
+      internalID: -1346241657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_177
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8259ea14ccbc49bbcfcb4978b2021
+      internalID: 1189654843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_178
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf5bd1a60d50474f83093554e772c31
+      internalID: -1086167673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_179
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 525
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1e8deb6123694db7eb25cd71cb7ca
+      internalID: -905811123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_180
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 507
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc9bf35ef01764ab61844abafa88b4
+      internalID: -1314776119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_181
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 515
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8178739a3241934985a155653345109
+      internalID: 1420400808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_182
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 509
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010daf3c8ef0dc646a494e9684191b42
+      internalID: -1912613586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_183
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 515
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6905f7808054eba43b9f731d3080d8ad
+      internalID: 149542346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_184
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 509
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac1d65426d841444b6bd633944c8e3e
+      internalID: -1045451755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_185
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 515
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8708a82e46992444a8bcc1a3f5050ec5
+      internalID: -785948847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_186
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 520
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0047637bb46cab4baa333da2947cfdc
+      internalID: 423458306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_187
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 520
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b798239fc9bc14468adeb4b5cb32c24
+      internalID: -384197232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_188
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 515
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc5444023f80d4689884e099a46fbd
+      internalID: -965358480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_189
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 515
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200f96a992b8b34e9523a626bdd2685
+      internalID: 1426235443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_190
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6412e24dbdfc314da8ba84f3cf05bc8
+      internalID: 6510499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_191
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 514
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72a763c545e714d97eefffc9b67098
+      internalID: 986612990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_192
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 516
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e386a13bcb9ab08489a274208b5cfede
+      internalID: 567855738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_193
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 521
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334f69bce9cdc044b7c8d4870d365be
+      internalID: 921249248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_194
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 520
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924807b396dada44b9e7608added2dc5
+      internalID: -882979274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_195
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 520
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f638b055148ed2439b6eee34dd5b759
+      internalID: 570644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_196
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 506
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5629039d8448e438227fc04f85875a
+      internalID: -1874280226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_197
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 506
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ecdbbadf449c488711d1b19501084
+      internalID: -1199324729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_198
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 507
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0349f221227248add6820aad7dede
+      internalID: -321241130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_199
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 510
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a960ecf74dcb54f8f71fc73f73033f
+      internalID: -1343314870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_200
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 503
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34389c12b1fa0478e9b89f0a0a8018
+      internalID: 63248041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_201
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 503
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f24a025ed8f1364c90e731c58827cdb
+      internalID: 1488253319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_202
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 359
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ada7431f84c3041aa45362ea61b85c
+      internalID: 491117704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_203
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 359
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5edfe169bf479047831382869340cac
+      internalID: -507903667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_204
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 359
+        width: 217
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c51af5af65d4a8429b14d812a1f171e
+      internalID: 374143775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_205
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 359
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d51b8434fb814483b6f6b77b4a109
+      internalID: -1495553306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_206
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 358
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343a2cff2b6a664293f7b1ec72d75da
+      internalID: 784001837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_207
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 354
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1574014f2ca34085759f2f7f3a211
+      internalID: -243551747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_208
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 465
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e0ca20178fdd14e81ade9436bd4460
+      internalID: -886398618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_209
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 359
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121d5d8b58d377642b8e579a5ce48034
+      internalID: 1460155447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_210
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 359
+        width: 266
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe026425f303ab34b950ba4414be353e
+      internalID: 3302858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_211
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 388
+        width: 275
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32116f8ae0d0f4f8a4ee7ad1c43827
+      internalID: -942741999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_212
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 388
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c4e2af484bd142afaa78b1edbcf67
+      internalID: 1652426008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_213
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 388
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6226bc285d7014a8066edcc5f9cd0a
+      internalID: 740790649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_214
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 388
+        width: 151
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f1d6434ef484438fb196022649db2
+      internalID: 301306380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_215
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 387
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479debdf86d7f8342ab8ea9072ca6b62
+      internalID: 1760653185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_216
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 434
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf806b9de9794b4c8f15f53b8cef5bd
+      internalID: -1151665609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_217
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 387
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081701929aab08b45954c8741e0bff33
+      internalID: -1233986079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_218
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 359
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb20aebdeadd5545a73ac18cf9e4fad
+      internalID: -1860206584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_219
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 306
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a5aa7bb233d0499392b3af76fa141
+      internalID: 1649175512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_220
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 306
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5038a839da1dd90409e8bdfc5485fe3c
+      internalID: 133081529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_221
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 306
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df13c5dfb9390a04093b5b8e286083b0
+      internalID: -154955456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_222
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 306
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff92b8c768d0b8f40a26fe814ac955d4
+      internalID: 2095445817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_223
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 306
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ca9d07613e9d742b824f7a461cd421
+      internalID: -2003257161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_224
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 368
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7cf978b46060489c562a1632eb750
+      internalID: -1174657439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_225
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 306
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6bc107c57af8c46b4f210ea422c224
+      internalID: -607101353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_226
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 368
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df223d3fe09d8d34ebf1b948bf21587a
+      internalID: -1628231894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_227
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 306
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f9c7c54b36ef49942577cee5acf1f
+      internalID: -1916501320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_228
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 306
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb80df98992ad74fbae974ed626b422
+      internalID: 378547776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_229
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 368
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af356d8c2d64f784da73f9df0368dffb
+      internalID: 2077516889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_230
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 367
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e4e2cf73bc384db91ca2be8cfb030
+      internalID: 1808354553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_231
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 306
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca51eb0877cb04881ae5cd817eda2f
+      internalID: -1987515033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_232
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 368
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc29f5725f45844ba60eb313be10b23
+      internalID: -241417142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_233
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 363
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba56c9b649ea92479b445df149765f5
+      internalID: 741054091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_234
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 306
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172a1bd5d3256bb43a50c76fd1a41334
+      internalID: -1245518630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_235
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 325
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafaa3332e9f4834d88eb5db111bbb3e
+      internalID: -774850172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_236
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 325
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058dbbff2386c324baacb431976ace7a
+      internalID: 1168562724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_237
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 357
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c99e92ded4f9b74f9175fdf0e1d69aa
+      internalID: 1980447164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_238
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 343
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5c194172be6b418ae77212cde7975
+      internalID: -1521767162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_239
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 346
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccba3fc551674e489f8add9de6ccdea
+      internalID: 882374944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_240
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 345
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1166411aad2244e8d9ae83f0e8d950
+      internalID: -1712016951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_241
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 349
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07db12488f9a345b7c59577be2ddac
+      internalID: 1415139792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_242
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 183
+        width: 447
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c631d35082cac12428c301fa4a16bcd8
+      internalID: -268287318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_243
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 197
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34068bc607d33394889cc9b3ecb94970
+      internalID: -1869097463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_244
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 197
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c3bf02cdca85b458c701f3c21920d7
+      internalID: 62354101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_245
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 196
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ac6793d19b9340a0f25d3fc40e35e
+      internalID: -40525452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_246
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 240
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163406fd32789e41ab72936610d0854
+      internalID: 1189398668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_247
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 263
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b27bb3508721f7408235d121c384783
+      internalID: 869273282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_248
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 264
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073ba93c04896441beac07f56d92394
+      internalID: -1137913477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_249
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 306
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc63a9cade2eb45b9122bdc6a9d43b
+      internalID: 1434456300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_250
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 306
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f2a10a5c8ef3f47a3a71c900480f68
+      internalID: 230131484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_251
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 192
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b994cf8838664ba3a1f6b20a52d31
+      internalID: -431316410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_252
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 193
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c8189865bdf94bb0ead99e60f4217
+      internalID: 181872684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_253
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782366ae76dd34b4785d3572cce31cf1
+      internalID: 2111537987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_254
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 78
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc351e492b93654b9de7d98c95d5b54
+      internalID: 1655343880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_255
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 122
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93a9a30f721b5418c49f4763e92f60
+      internalID: -318077006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_256
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 122
+        width: 108
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b15146d4158284f8c56ec74d1f4e31
+      internalID: 618653604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_257
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 122
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a870a1e71cf4ed4dbfb2ac98313f6a8
+      internalID: -571039162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_258
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 122
+        width: 116
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db841fa9606322045bb40e3ab679345d
+      internalID: 1342390789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_259
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 87
+        width: 129
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023ee82e64d3cb241873503c0bbe261b
+      internalID: 353425747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Accelerator Cannon_260
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 87
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b34334758f874fa07e9f9cac27b80
+      internalID: -862410998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Metal Slug Attack - Accelerator Cannon_247: 869273282
+      Mobile - Metal Slug Attack - Accelerator Cannon_162: -257244961
+      Mobile - Metal Slug Attack - Accelerator Cannon_194: -882979274
+      Mobile - Metal Slug Attack - Accelerator Cannon_220: 133081529
+      Mobile - Metal Slug Attack - Accelerator Cannon_238: -1521767162
+      Mobile - Metal Slug Attack - Accelerator Cannon_34: -829979414
+      Mobile - Metal Slug Attack - Accelerator Cannon_145: 1996342484
+      Mobile - Metal Slug Attack - Accelerator Cannon_89: -2018109298
+      Mobile - Metal Slug Attack - Accelerator Cannon_258: 1342390789
+      Mobile - Metal Slug Attack - Accelerator Cannon_214: 301306380
+      Mobile - Metal Slug Attack - Accelerator Cannon_20: 1975179523
+      Mobile - Metal Slug Attack - Accelerator Cannon_65: -1051188035
+      Mobile - Metal Slug Attack - Accelerator Cannon_244: 62354101
+      Mobile - Metal Slug Attack - Accelerator Cannon_122: -357567594
+      Mobile - Metal Slug Attack - Accelerator Cannon_176: -1346241657
+      Mobile - Metal Slug Attack - Accelerator Cannon_121: 477497371
+      Mobile - Metal Slug Attack - Accelerator Cannon_245: -40525452
+      Mobile - Metal Slug Attack - Accelerator Cannon_8: -1371869057
+      Mobile - Metal Slug Attack - Accelerator Cannon_38: 1494630367
+      Mobile - Metal Slug Attack - Accelerator Cannon_61: -1419121758
+      Mobile - Metal Slug Attack - Accelerator Cannon_109: 195913135
+      Mobile - Metal Slug Attack - Accelerator Cannon_114: 1393421936
+      Mobile - Metal Slug Attack - Accelerator Cannon_211: -942741999
+      Mobile - Metal Slug Attack - Accelerator Cannon_188: -965358480
+      Mobile - Metal Slug Attack - Accelerator Cannon_26: 529326408
+      Mobile - Metal Slug Attack - Accelerator Cannon_160: 681795662
+      Mobile - Metal Slug Attack - Accelerator Cannon_208: -886398618
+      Mobile - Metal Slug Attack - Accelerator Cannon_183: 149542346
+      Mobile - Metal Slug Attack - Accelerator Cannon_95: -1893173201
+      Mobile - Metal Slug Attack - Accelerator Cannon_173: -1166871478
+      Mobile - Metal Slug Attack - Accelerator Cannon_21: 1023142181
+      Mobile - Metal Slug Attack - Accelerator Cannon_66: -1048226660
+      Mobile - Metal Slug Attack - Accelerator Cannon_46: 1140073366
+      Mobile - Metal Slug Attack - Accelerator Cannon_50: 538304506
+      Mobile - Metal Slug Attack - Accelerator Cannon_10: 1649759173
+      Mobile - Metal Slug Attack - Accelerator Cannon_192: 567855738
+      Mobile - Metal Slug Attack - Accelerator Cannon_39: 873532215
+      Mobile - Metal Slug Attack - Accelerator Cannon_92: -540339904
+      Mobile - Metal Slug Attack - Accelerator Cannon_111: 1193784057
+      Mobile - Metal Slug Attack - Accelerator Cannon_141: 202909607
+      Mobile - Metal Slug Attack - Accelerator Cannon_205: -1495553306
+      Mobile - Metal Slug Attack - Accelerator Cannon_178: -1086167673
+      Mobile - Metal Slug Attack - Accelerator Cannon_99: -1643239633
+      Mobile - Metal Slug Attack - Accelerator Cannon_230: 1808354553
+      Mobile - Metal Slug Attack - Accelerator Cannon_139: -1378761683
+      Mobile - Metal Slug Attack - Accelerator Cannon_80: -1370754241
+      Mobile - Metal Slug Attack - Accelerator Cannon_255: -318077006
+      Mobile - Metal Slug Attack - Accelerator Cannon_96: 1089252548
+      Mobile - Metal Slug Attack - Accelerator Cannon_6: 1895727025
+      Mobile - Metal Slug Attack - Accelerator Cannon_105: 2108278921
+      Mobile - Metal Slug Attack - Accelerator Cannon_82: 246992032
+      Mobile - Metal Slug Attack - Accelerator Cannon_253: 2111537987
+      Mobile - Metal Slug Attack - Accelerator Cannon_201: 1488253319
+      Mobile - Metal Slug Attack - Accelerator Cannon_234: -1245518630
+      Mobile - Metal Slug Attack - Accelerator Cannon_22: -671256910
+      Mobile - Metal Slug Attack - Accelerator Cannon_119: 1575551272
+      Mobile - Metal Slug Attack - Accelerator Cannon_158: 876915058
+      Mobile - Metal Slug Attack - Accelerator Cannon_164: -314568825
+      Mobile - Metal Slug Attack - Accelerator Cannon_127: -1807742937
+      Mobile - Metal Slug Attack - Accelerator Cannon_27: 1931201611
+      Mobile - Metal Slug Attack - Accelerator Cannon_59: -2010569695
+      Mobile - Metal Slug Attack - Accelerator Cannon_131: -1121983905
+      Mobile - Metal Slug Attack - Accelerator Cannon_5: 1550838363
+      Mobile - Metal Slug Attack - Accelerator Cannon_169: 1607741769
+      Mobile - Metal Slug Attack - Accelerator Cannon_56: 1101354572
+      Mobile - Metal Slug Attack - Accelerator Cannon_19: -1080622873
+      Mobile - Metal Slug Attack - Accelerator Cannon_152: 415535307
+      Mobile - Metal Slug Attack - Accelerator Cannon_35: -1837157309
+      Mobile - Metal Slug Attack - Accelerator Cannon_186: 423458306
+      Mobile - Metal Slug Attack - Accelerator Cannon_120: -410232792
+      Mobile - Metal Slug Attack - Accelerator Cannon_187: -384197232
+      Mobile - Metal Slug Attack - Accelerator Cannon_155: 851378349
+      Mobile - Metal Slug Attack - Accelerator Cannon_184: -1045451755
+      Mobile - Metal Slug Attack - Accelerator Cannon_193: 921249248
+      Mobile - Metal Slug Attack - Accelerator Cannon_60: 1951250176
+      Mobile - Metal Slug Attack - Accelerator Cannon_256: 618653604
+      Mobile - Metal Slug Attack - Accelerator Cannon_53: 801771401
+      Mobile - Metal Slug Attack - Accelerator Cannon_31: -165727694
+      Mobile - Metal Slug Attack - Accelerator Cannon_85: -671429144
+      Mobile - Metal Slug Attack - Accelerator Cannon_157: -1948065976
+      Mobile - Metal Slug Attack - Accelerator Cannon_40: -1792123242
+      Mobile - Metal Slug Attack - Accelerator Cannon_156: 213571223
+      Mobile - Metal Slug Attack - Accelerator Cannon_233: 741054091
+      Mobile - Metal Slug Attack - Accelerator Cannon_196: -1874280226
+      Player: 101718737
+      Mobile - Metal Slug Attack - Accelerator Cannon_97: -1927858096
+      Mobile - Metal Slug Attack - Accelerator Cannon_43: 1682116970
+      Mobile - Metal Slug Attack - Accelerator Cannon_42: -374231138
+      Mobile - Metal Slug Attack - Accelerator Cannon_225: -607101353
+      Mobile - Metal Slug Attack - Accelerator Cannon_226: -1628231894
+      Mobile - Metal Slug Attack - Accelerator Cannon_207: -243551747
+      Mobile - Metal Slug Attack - Accelerator Cannon_93: 75417045
+      Mobile - Metal Slug Attack - Accelerator Cannon_148: 1855106344
+      Mobile - Metal Slug Attack - Accelerator Cannon_135: -474525222
+      Mobile - Metal Slug Attack - Accelerator Cannon_240: -1712016951
+      Mobile - Metal Slug Attack - Accelerator Cannon_117: -760027063
+      Mobile - Metal Slug Attack - Accelerator Cannon_83: 1122231225
+      Mobile - Metal Slug Attack - Accelerator Cannon_231: -1987515033
+      Mobile - Metal Slug Attack - Accelerator Cannon_15: -1440195107
+      Mobile - Metal Slug Attack - Accelerator Cannon_64: -1407973322
+      Mobile - Metal Slug Attack - Accelerator Cannon_222: 2095445817
+      Mobile - Metal Slug Attack - Accelerator Cannon_28: -2024013135
+      Mobile - Metal Slug Attack - Accelerator Cannon_241: 1415139792
+      Mobile - Metal Slug Attack - Accelerator Cannon_88: 682755981
+      Mobile - Metal Slug Attack - Accelerator Cannon_151: 716785159
+      Mobile - Metal Slug Attack - Accelerator Cannon_170: 936156450
+      Mobile - Metal Slug Attack - Accelerator Cannon_143: 1442460119
+      Mobile - Metal Slug Attack - Accelerator Cannon_48: -2136752910
+      Mobile - Metal Slug Attack - Accelerator Cannon_144: -962910834
+      Mobile - Metal Slug Attack - Accelerator Cannon_191: 986612990
+      Mobile - Metal Slug Attack - Accelerator Cannon_128: 2008069520
+      Mobile - Metal Slug Attack - Accelerator Cannon_199: -1343314870
+      Mobile - Metal Slug Attack - Accelerator Cannon_209: 1460155447
+      Mobile - Metal Slug Attack - Accelerator Cannon_81: 644766715
+      Mobile - Metal Slug Attack - Accelerator Cannon_227: -1916501320
+      Mobile - Metal Slug Attack - Accelerator Cannon_69: 140542003
+      Mobile - Metal Slug Attack - Accelerator Cannon_197: -1199324729
+      Mobile - Metal Slug Attack - Accelerator Cannon_74: 955364600
+      Mobile - Metal Slug Attack - Accelerator Cannon_206: 784001837
+      Mobile - Metal Slug Attack - Accelerator Cannon_72: -1223304751
+      Mobile - Metal Slug Attack - Accelerator Cannon_84: -1250604307
+      Mobile - Metal Slug Attack - Accelerator Cannon_254: 1655343880
+      Mobile - Metal Slug Attack - Accelerator Cannon_221: -154955456
+      Mobile - Metal Slug Attack - Accelerator Cannon_107: 172579972
+      Mobile - Metal Slug Attack - Accelerator Cannon_7: -1116461248
+      Mobile - Metal Slug Attack - Accelerator Cannon_54: -985011544
+      Mobile - Metal Slug Attack - Accelerator Cannon_154: 549870008
+      Mobile - Metal Slug Attack - Accelerator Cannon_68: -1660475157
+      Mobile - Metal Slug Attack - Accelerator Cannon_146: -153434210
+      Mobile - Metal Slug Attack - Accelerator Cannon_113: -1769579604
+      Mobile - Metal Slug Attack - Accelerator Cannon_239: 882374944
+      Mobile - Metal Slug Attack - Accelerator Cannon_51: -327180624
+      Mobile - Metal Slug Attack - Accelerator Cannon_174: 1478588337
+      Mobile - Metal Slug Attack - Accelerator Cannon_228: 378547776
+      Mobile - Metal Slug Attack - Accelerator Cannon_45: -1227827038
+      Mobile - Metal Slug Attack - Accelerator Cannon_171: -84001911
+      Mobile - Metal Slug Attack - Accelerator Cannon_103: -1102415760
+      Mobile - Metal Slug Attack - Accelerator Cannon_13: -799066566
+      Mobile - Metal Slug Attack - Accelerator Cannon_12: 930985337
+      Mobile - Metal Slug Attack - Accelerator Cannon_30: -1011999766
+      Mobile - Metal Slug Attack - Accelerator Cannon_167: -1505145382
+      Mobile - Metal Slug Attack - Accelerator Cannon_215: 1760653185
+      Mobile - Metal Slug Attack - Accelerator Cannon_102: -1892970734
+      Mobile - Metal Slug Attack - Accelerator Cannon_142: 943670059
+      Mobile - Metal Slug Attack - Accelerator Cannon_76: -1527369248
+      Mobile - Metal Slug Attack - Accelerator Cannon_246: 1189398668
+      Mobile - Metal Slug Attack - Accelerator Cannon_29: -915774423
+      Mobile - Metal Slug Attack - Accelerator Cannon_190: 6510499
+      Mobile - Metal Slug Attack - Accelerator Cannon_101: 847953611
+      Mobile - Metal Slug Attack - Accelerator Cannon_57: -2096724322
+      Mobile - Metal Slug Attack - Accelerator Cannon_71: 490225045
+      Mobile - Metal Slug Attack - Accelerator Cannon_236: 1168562724
+      Mobile - Metal Slug Attack - Accelerator Cannon_210: 3302858
+      Mobile - Metal Slug Attack - Accelerator Cannon_32: -1077942805
+      Mobile - Metal Slug Attack - Accelerator Cannon_126: 579720935
+      Mobile - Metal Slug Attack - Accelerator Cannon_138: 1258266382
+      Mobile - Metal Slug Attack - Accelerator Cannon_136: 1219448203
+      Mobile - Metal Slug Attack - Accelerator Cannon_78: 1941568157
+      Mobile - Metal Slug Attack - Accelerator Cannon_63: 1923638761
+      Mobile - Metal Slug Attack - Accelerator Cannon_4: -1288856929
+      Mobile - Metal Slug Attack - Accelerator Cannon_161: -548701536
+      Mobile - Metal Slug Attack - Accelerator Cannon_140: -431872337
+      Mobile - Metal Slug Attack - Accelerator Cannon_147: -1835472407
+      Mobile - Metal Slug Attack - Accelerator Cannon_36: -1660878909
+      Mobile - Metal Slug Attack - Accelerator Cannon_124: -2106470249
+      Mobile - Metal Slug Attack - Accelerator Cannon_87: -1065643089
+      Mobile - Metal Slug Attack - Accelerator Cannon_104: -81637891
+      Mobile - Metal Slug Attack - Accelerator Cannon_185: -785948847
+      Mobile - Metal Slug Attack - Accelerator Cannon_179: -905811123
+      Mobile - Metal Slug Attack - Accelerator Cannon_204: 374143775
+      Mobile - Metal Slug Attack - Accelerator Cannon_44: -1194169626
+      Mobile - Metal Slug Attack - Accelerator Cannon_153: 123211971
+      Mobile - Metal Slug Attack - Accelerator Cannon_182: -1912613586
+      Mobile - Metal Slug Attack - Accelerator Cannon_132: -1518969410
+      Mobile - Metal Slug Attack - Accelerator Cannon_218: -1860206584
+      Mobile - Metal Slug Attack - Accelerator Cannon_232: -241417142
+      Mobile - Metal Slug Attack - Accelerator Cannon_259: 353425747
+      Mobile - Metal Slug Attack - Accelerator Cannon_180: -1314776119
+      Mobile - Metal Slug Attack - Accelerator Cannon_216: -1151665609
+      Mobile - Metal Slug Attack - Accelerator Cannon_235: -774850172
+      Mobile - Metal Slug Attack - Accelerator Cannon_242: -268287318
+      Mobile - Metal Slug Attack - Accelerator Cannon_249: 1434456300
+      Mobile - Metal Slug Attack - Accelerator Cannon_195: 570644
+      Mobile - Metal Slug Attack - Accelerator Cannon_150: -516518521
+      Mobile - Metal Slug Attack - Accelerator Cannon_175: -383052038
+      Mobile - Metal Slug Attack - Accelerator Cannon_17: -914870330
+      Mobile - Metal Slug Attack - Accelerator Cannon_100: -1133058949
+      Mobile - Metal Slug Attack - Accelerator Cannon_252: 181872684
+      Mobile - Metal Slug Attack - Accelerator Cannon_77: -661498902
+      Mobile - Metal Slug Attack - Accelerator Cannon_91: 1220491245
+      Mobile - Metal Slug Attack - Accelerator Cannon_133: -1705329206
+      Mobile - Metal Slug Attack - Accelerator Cannon_202: 491117704
+      Mobile - Metal Slug Attack - Accelerator Cannon_217: -1233986079
+      Mobile - Metal Slug Attack - Accelerator Cannon_86: 958946422
+      Mobile - Metal Slug Attack - Accelerator Cannon_212: 1652426008
+      Mobile - Metal Slug Attack - Accelerator Cannon_70: 1973670118
+      Mobile - Metal Slug Attack - Accelerator Cannon_55: 52649122
+      Mobile - Metal Slug Attack - Accelerator Cannon_98: -640047567
+      Mobile - Metal Slug Attack - Accelerator Cannon_58: -302489041
+      Mobile - Metal Slug Attack - Accelerator Cannon_73: 389269604
+      Mobile - Metal Slug Attack - Accelerator Cannon_172: 259307474
+      Mobile - Metal Slug Attack - Accelerator Cannon_243: -1869097463
+      Mobile - Metal Slug Attack - Accelerator Cannon_79: 564686404
+      Mobile - Metal Slug Attack - Accelerator Cannon_52: 39562904
+      Mobile - Metal Slug Attack - Accelerator Cannon_198: -321241130
+      Mobile - Metal Slug Attack - Accelerator Cannon_213: 740790649
+      Mobile - Metal Slug Attack - Accelerator Cannon_47: -284263552
+      Mobile - Metal Slug Attack - Accelerator Cannon_168: -1742435895
+      Mobile - Metal Slug Attack - Accelerator Cannon_24: -1490634151
+      Mobile - Metal Slug Attack - Accelerator Cannon_112: -1419763851
+      Mobile - Metal Slug Attack - Accelerator Cannon_67: -208876747
+      Mobile - Metal Slug Attack - Accelerator Cannon_11: 404583185
+      Mobile - Metal Slug Attack - Accelerator Cannon_219: 1649175512
+      Mobile - Metal Slug Attack - Accelerator Cannon_237: 1980447164
+      Mobile - Metal Slug Attack - Accelerator Cannon_75: -547571745
+      Mobile - Metal Slug Attack - Accelerator Cannon_223: -2003257161
+      Mobile - Metal Slug Attack - Accelerator Cannon_108: 1899778883
+      Mobile - Metal Slug Attack - Accelerator Cannon_25: 735800903
+      Mobile - Metal Slug Attack - Accelerator Cannon_129: -1385768723
+      Mobile - Metal Slug Attack - Accelerator Cannon_250: 230131484
+      Mobile - Metal Slug Attack - Accelerator Cannon_90: -445883765
+      Mobile - Metal Slug Attack - Accelerator Cannon_115: 290492808
+      Mobile - Metal Slug Attack - Accelerator Cannon_2: -1789341473
+      Mobile - Metal Slug Attack - Accelerator Cannon_41: 391837005
+      Mobile - Metal Slug Attack - Accelerator Cannon_49: 853033644
+      Mobile - Metal Slug Attack - Accelerator Cannon_189: 1426235443
+      Mobile - Metal Slug Attack - Accelerator Cannon_257: -571039162
+      Mobile - Metal Slug Attack - Accelerator Cannon_123: -1111154458
+      Mobile - Metal Slug Attack - Accelerator Cannon_181: 1420400808
+      Mobile - Metal Slug Attack - Accelerator Cannon_23: -1589232254
+      Mobile - Metal Slug Attack - Accelerator Cannon_248: -1137913477
+      Mobile - Metal Slug Attack - Accelerator Cannon_33: 714025434
+      Mobile - Metal Slug Attack - Accelerator Cannon_125: 607773027
+      Mobile - Metal Slug Attack - Accelerator Cannon_159: -42621324
+      Mobile - Metal Slug Attack - Accelerator Cannon_229: 2077516889
+      Mobile - Metal Slug Attack - Accelerator Cannon_163: 857234489
+      Mobile - Metal Slug Attack - Accelerator Cannon_37: 1724569108
+      Mobile - Metal Slug Attack - Accelerator Cannon_62: 631505050
+      Mobile - Metal Slug Attack - Accelerator Cannon_165: -251652258
+      Mobile - Metal Slug Attack - Accelerator Cannon_94: 1923466734
+      Mobile - Metal Slug Attack - Accelerator Cannon_0: 856062746
+      Mobile - Metal Slug Attack - Accelerator Cannon_200: 63248041
+      Mobile - Metal Slug Attack - Accelerator Cannon_118: -211342063
+      Mobile - Metal Slug Attack - Accelerator Cannon_149: -457662149
+      Mobile - Metal Slug Attack - Accelerator Cannon_251: -431316410
+      Mobile - Metal Slug Attack - Accelerator Cannon_110: -1289611907
+      Mobile - Metal Slug Attack - Accelerator Cannon_9: 624579802
+      Mobile - Metal Slug Attack - Accelerator Cannon_134: -295795248
+      Mobile - Metal Slug Attack - Accelerator Cannon_116: -2131398046
+      Mobile - Metal Slug Attack - Accelerator Cannon_3: -1462636127
+      Mobile - Metal Slug Attack - Accelerator Cannon_14: -1218852566
+      Mobile - Metal Slug Attack - Accelerator Cannon_137: -1723103806
+      Mobile - Metal Slug Attack - Accelerator Cannon_260: -862410998
+      Mobile - Metal Slug Attack - Accelerator Cannon_177: 1189654843
+      Mobile - Metal Slug Attack - Accelerator Cannon_130: 1762378668
+      Mobile - Metal Slug Attack - Accelerator Cannon_166: 443545083
+      Mobile - Metal Slug Attack - Accelerator Cannon_203: -507903667
+      Mobile - Metal Slug Attack - Accelerator Cannon_16: 1032726606
+      Mobile - Metal Slug Attack - Accelerator Cannon_106: 1916190193
+      Mobile - Metal Slug Attack - Accelerator Cannon_224: -1174657439
+      Mobile - Metal Slug Attack - Accelerator Cannon_18: 646348711
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

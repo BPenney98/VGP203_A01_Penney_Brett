@@ -1,0 +1,6339 @@
+fileFormatVersion: 2
+guid: e35de9b6b134e6349960410c73fd983d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3649e0815824c9b448e2d3f621646aaf
+      internalID: 506940180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41939622d6faba43b94f09cc3eefe64
+      internalID: -2100082179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c47a0410e20145836eaaa25abf6ff
+      internalID: -1793840799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f57cf1177aba1f40bb9cdf497d5a35d
+      internalID: -535199693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de415c16409e034d99e72403d028fb6
+      internalID: -1016155241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28dab673b938a04d858b42fecbaacf7
+      internalID: -1140655048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea567391e14cec4799a5356614a4ff0
+      internalID: -321335936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f085105cc372141b7766a90f845e62
+      internalID: -1954419409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106a8abb26545fc4a96343961789e9e9
+      internalID: 821234196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236abd788b9beec40938ce22a5baffa7
+      internalID: 537728776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd091b385ba3a446b69ee7503a7a9b7
+      internalID: -2049076349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3108df2db3557743a237df40427b596
+      internalID: 2056453841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdbb61537b022f4d943f04f71383ae6
+      internalID: 1404354842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb672db0841525e4d86a3aa9d5615f84
+      internalID: -1887312169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060411e8088e96d4786c3bb41fbc22e2
+      internalID: 1640564298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a699b39ca59ed4782ab1453eb12fbe
+      internalID: 1349431574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdb2d9cfb1923945959053eaae8d9dd
+      internalID: 1632731707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a906644bea090848961decc8122445c
+      internalID: -431805108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccae735de63be24abdb95d848bd8938
+      internalID: 1038199178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ad070e39543e4f8fda56807a8489c
+      internalID: 1944674154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414f818be8d5da4dac02f4c29e6b9c1
+      internalID: -2136011921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11df9682f9ddba449ed1fa04f46da7d
+      internalID: -642770274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a349463de0cfe114d8449e0316d0f9c1
+      internalID: -959290708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52fb58a515c2bb43a56863c42977816
+      internalID: -829141078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49025f85e90c1604db9e9fd3adbe68a1
+      internalID: 867293561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db273001c66092a4999f9e652fadfd15
+      internalID: 1521476666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a49399bfb0a64fba078cf91700e2f
+      internalID: -640888793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd59e1c8e082604ebb64fc85f485334
+      internalID: -666136420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d01524864d06da499f572a149503170
+      internalID: 1832864565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4976b08eaf03a4da990639071ecb08
+      internalID: -745783083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5297ec6b79f942b3b94158eb8e4ec
+      internalID: 1576382852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2911e682b957c5e4ea5a8eb86509d847
+      internalID: 1711150881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed07ca3f25e2bfa4ebb2b47ffd2ec884
+      internalID: 829484205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 323
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfbc69eb4bc7164493490b016729f89
+      internalID: -2088373823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da4969fff47ce47a87792c4cd35719
+      internalID: -408194073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1910a81de944aff41b28c34608cd137d
+      internalID: 649672670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f44e9c64469b46932fadf93d4afc1
+      internalID: -1668666890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c16206dd7c74429256686aa8c2a0f
+      internalID: -79736553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b847a1a50bbe1e240b5caa45b1acb445
+      internalID: 1432085180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4caaefd9789149aecbee94f16a797
+      internalID: 1225330153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d3d4ac1a01754fab77280a5ddb8eb
+      internalID: 1072323689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25697bf0b7db28a4aa3f0199631b0110
+      internalID: 1325947517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9af0d5e99695e742bc68589bdf9054c
+      internalID: -879579204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa91b30f79dcf4dabf621e15393b50
+      internalID: 144093573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470b2879c24abf49a9c1c4523e82940
+      internalID: -1315372737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd5ff91d06a17459ade343e3440846
+      internalID: -637130347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb361a269397724cbb5f3f3417ffa6c
+      internalID: 1957698255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a9c2441263bc4d98b20817af6079f
+      internalID: 2106761002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f1013cc019224baafb7fd5a051dd3
+      internalID: 347486679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a091edee99aa4448cfb387e08c464b
+      internalID: 1219128336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac8bb0997a9f1448b31fa0cb914369
+      internalID: 1412484538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac87b3d4bba77498b8b169b2206b07
+      internalID: -1595262175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ca3faec5e204468e3fd32359180a9
+      internalID: 1961870256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a71053b56a56c4ead92650b0b57a4c
+      internalID: 1444092998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c169b27a7e0448a9ed1259f8ca06a
+      internalID: 163333419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca8a7a76707a146ae5144fcdb8604d
+      internalID: -733490800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e42a88fbb8aea649b0c1b67a55db452
+      internalID: -1974234292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123ba6da062fd14ab6cdfa853785e59
+      internalID: 278306462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f31d39ef248148877be6606266c92
+      internalID: -774507560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28b0dc615fa694aaf7eea236f52332
+      internalID: 642314283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4787fe6714d43354eaef4f4ad705c68e
+      internalID: -1177173506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce8a14535d26f41a74b2524af625f7
+      internalID: -1223991466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0401966c114bfb42ae01d4ca829ffe6
+      internalID: 864421168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a07615d45a60a245ac4feb773634e2e
+      internalID: 1134823746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727f0e3793abf0345acb747101dd7c94
+      internalID: 1402924899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a413319de864c40b850dfbb7f36776
+      internalID: -1314329606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d0a195826fd142bf630ef4e686468
+      internalID: 1293224469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183cd490d2b63842a64103934c3ca68
+      internalID: 1430898965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0004df2bcd5f71419440bd2928ae9dc
+      internalID: -1568173951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d2cd8cd6e3424fb5fc3ef49aaa2dd
+      internalID: 1144894537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe00954552adc14b905166eabcb7be6
+      internalID: -1304044321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceafda049c8b684e88ba8872fcfd02c
+      internalID: -2008979403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16718ec14f7a09c4ea75e7e865f1ab3a
+      internalID: -134555847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d023571bceb996b41a72a54d69ae3a65
+      internalID: 2021419062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc39becfd78604598e34f2e4036232
+      internalID: -609296129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9950a56f9d4648a66dd9a8298aae5
+      internalID: 1724313125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d912f49f4b1484a838921aeeef8685
+      internalID: 1000903910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cbaf7c9104c8540b2df3675f05c6eb
+      internalID: -2007434746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8860141af9de40a15b360cb0099dc
+      internalID: -2096569418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3239588443374d4a9c5d35b7fcb4e5a
+      internalID: 1657956375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f916a617b79ce4796b93960bfb928f
+      internalID: 2063194995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b862044ff0050449514e7448342eec
+      internalID: -1445238811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbef9c7e6d80d74fb23dd114fa6ef7a
+      internalID: 1135080838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f3c93c78e7234a9f7dd1cda397496
+      internalID: 1733782604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b046fe116e000e42afc41feff58b01d
+      internalID: -1576128769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd53820bdcd29149b69b39c464608d2
+      internalID: 989663829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639da307f97e2aa46ba800e3045ab4cd
+      internalID: -1782658785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084dfb92df08084a9667a7617743b8e
+      internalID: 2027779728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad15890f45fbeb4ea611ca70999c8a4
+      internalID: 1911989660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410d6b075f046854b8523a1265e5bce3
+      internalID: 1023455976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf9baec41bf7c942ab1cfe24803a33c
+      internalID: -514190829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0afc3e2632784589016cfa33d1915
+      internalID: 317877428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7375c6595b263429311cce435a2e82
+      internalID: 677115358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31686878e80d86944afe4658e7d0a97b
+      internalID: -1375087757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d377b0fd3eac5a43b6b6d43fbdba753
+      internalID: 285833223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef6532fbff8a841bc0d1cddd9e41e1
+      internalID: 426691007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21472525d3673c544b34b0335e4c4a6f
+      internalID: 1115529782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe0710f03830a044bf17cfd04dbaa37
+      internalID: 1290816247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3de219dc6d81498814b4ce05da165
+      internalID: -760106871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6738381da091ad4f994bb2e4de0da05
+      internalID: -107396415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0aae135c71bad4e813e4713f673c9b
+      internalID: 558110717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6097fa1c748b60649a71e073134027c6
+      internalID: -170680675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e661134faf6442bfe96e866055cb8
+      internalID: 176418294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c72506b10ebea4cb575bf4dbf3d321
+      internalID: 472100438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933732a6f1c08e146ad7b7f0cd66ce99
+      internalID: 240938072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283260cd36835014f8d8967e5a5e5ba0
+      internalID: -1101265145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca218187ff293e9469906a7a13721691
+      internalID: 630504460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c11d9b1d2b1624084a009cf0acc8b3
+      internalID: -1781615075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c1192c9484c7240bbbeb33881ea6e1
+      internalID: -1792963561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594bc4142c3efac46ae9c1e9d50bc3fa
+      internalID: -967242368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc64e0f16a8af3342949189c67c61d06
+      internalID: -2123112339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f084951265332546b0bff056c3f98ec
+      internalID: -391429529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d389b6157ac64ebd08fed7ab58bb0
+      internalID: 1129437114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137aed2b4e571f4e8e9f2a60c421ffb
+      internalID: -1405174203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea412bfe7c9c04ebb8e39a4082fc33
+      internalID: -84729823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9883ab246cec4bb9bedc113b9a477
+      internalID: -1917652330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09062418c52b6c84c8c325d774cc1864
+      internalID: -1429717097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca50f91a0b99cd41b0656a42e227177
+      internalID: 1808101752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c30519da5bd6442bb6e1af97eb15a4
+      internalID: -1165828342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce345c0d2bec845979b46a6aa8fff0
+      internalID: -1641390292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b964a993fb1964ea36adfab668bd7d
+      internalID: 882760627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b3d27253d1c8b4f8b18a4cd3633135
+      internalID: -1702157066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d4ebb906fa9464d87a977d0ad55305
+      internalID: 1414508653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589eb902faa993545962171d845ea34a
+      internalID: 1608621679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d589a15576d4f448a1a51ca77f0e143
+      internalID: -311144753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa92caaddfea7240b65e627fdb4d36d
+      internalID: -315827988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddeae129bd92804b8cd2ca110aafe96
+      internalID: -1279859157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280514cad782d9240bac8d9850bc95f8
+      internalID: 1445521290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05dbd4e8cadc647a468effcaef3779
+      internalID: 1873001826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1780a13aae0d84d87c3334d3031070
+      internalID: -1181477851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a0010857093740b4821e48ffd7546
+      internalID: -1576878924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5cd485f7bed6147bc7ecd45fe5928c
+      internalID: -642310335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227336de57829f945adc12946f3f2f0c
+      internalID: 1685527960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb46adf8cf21ba46ae9ede37a3cd04d
+      internalID: 189679575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50941df9c1e3b4946a716be366e49a49
+      internalID: -803232395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84abb73047f91458e7c14a015ae1a2
+      internalID: 1006657526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2031c21bb4e544cba4de852ed767dd
+      internalID: -137827567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa6e75b1708cf40b94f2ae7a3927b7
+      internalID: -109177492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b2bbc6e352434d8b2cf71abf11e45
+      internalID: 1807332591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b95948521c2c4895068f056f56f57
+      internalID: -1639756617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcb4e5ebd2f10d49aba19f6bda18758
+      internalID: 1089391529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b11f17729a4914d8b84fb85306cd09
+      internalID: 1233985649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cfd4545d551ea4992e950d9e9e8c9f
+      internalID: 1019664320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba056dea2e942e5439ea647091f59293
+      internalID: -887252181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576eeca4990a99445876dadf5e78cde2
+      internalID: -1912206452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767b15d947cbba4f969600f63856616
+      internalID: 275269014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac7968030d95b43a01f885fbd239ee
+      internalID: 746899939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173dd3d94bd84bf42ae829b00ceb7094
+      internalID: 1637288107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e24fb81e356864eb852947a66715ef
+      internalID: -16798233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759841779a814564eadaf818b7797081
+      internalID: 2097523999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4949b0bba5905f347b2db2f2b15eae98
+      internalID: 1466938022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4028f2fe5d700114cb9b743811bc781c
+      internalID: -1520740212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955fae777898f6841b786f6f25171c24
+      internalID: -1999783939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44683e55e79d6344a953e221ccf102de
+      internalID: -1947669772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f9e8d3616d2045b7bbeaafc226070
+      internalID: -1891601798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f527afdcb77346a4c9ee336b91973925
+      internalID: -1262050659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e749ca8189a0564bb03c4d0705c1b37
+      internalID: 803169151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54216b163bfbfdb43b70b4f9df704002
+      internalID: -1414145000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b245200988f5794fa2a9096c68c9f75
+      internalID: 1576283811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97220e99f9102d54188561a03e761648
+      internalID: 373503156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 147
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d611ab0f57721d498fec6e75bc5cc65
+      internalID: -409847169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed374782d0e09ff4683659ecd373f47b
+      internalID: 1399301768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d7cb24656b2b4cbe2f03dca3585cf
+      internalID: -1987277781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a24d8a264be014bb98f465d73147b1
+      internalID: -2122639045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152b0b6e11dea4418347e167cd7f74c
+      internalID: 1436213450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5e53dc16fe1c443b31917ac8acb550
+      internalID: -1849303217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc2524c9bc42c41890b197947522a2
+      internalID: 661906489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b596a056a2e860b4ba9e5dd05ddd13e4
+      internalID: 1741829127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa548c670880a48a1ea3bcf0855788
+      internalID: -168067990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99a608aca60a545adbd994d8756b81
+      internalID: -2102062352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305e5eefeb7e43439ed6aa2824db5b4
+      internalID: 501600684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc65b3b5cf85c489f8934dacffa950
+      internalID: 2051420384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588b0fcb4084eaa40933ff574cd129d8
+      internalID: 1293973273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dc761fb1878a148ba08ad23a13a429
+      internalID: -978673286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852087a6c3da86c42bd51998f1eaf846
+      internalID: -1083810287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871c0139dba79a41a4975a51b1f0f53
+      internalID: 1591292098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316828b97da226047936483f8df9c9eb
+      internalID: -1829530093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d88f427a2ad924caf99ba8e538ea1d
+      internalID: -1954756274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adc3a06e83c9b9499839228f4973473
+      internalID: -1953115769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b9080eed99f34aa31f5b0b7008860
+      internalID: -900528419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a4f339c67a1d4bbe18322cdf52dbf
+      internalID: -1923690789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9497dd816bf33408661ed17d7d81c1
+      internalID: -1445092429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29167eb50ce54b14d97ce823922642e9
+      internalID: -876852582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49123e4f63384b45a72359646d13dd8
+      internalID: 1578714635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c48c2246ad99d240849c09ec28fcacd
+      internalID: -105923442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa016cc859611b4aa34ad78f8e34763
+      internalID: 1988565464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d38e8477e13894fa661d9f988ca988
+      internalID: 1366677685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f24e7e205041cf4e97742c5f68a46bd
+      internalID: 522608455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf2eb17b2d93774697c5a38222b7063
+      internalID: -846153614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7799f3cc5c15fb44840310f460f68bd
+      internalID: -164424731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866d792057b4c74b9bd2bf0e66978e8
+      internalID: -499430934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a14c47a5cf868b4b83a65e7e989e504
+      internalID: -884279350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2860cb199de12344b3e177de082df59
+      internalID: -635094075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8922c83d894f42bf8169ff65c2ba1
+      internalID: 1226197510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d8f0fcd6d1b0348b3b1d540fd79653
+      internalID: 1971524929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0d9a40fa60fcd4c86ae4448bd9be36
+      internalID: 1726569880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_196
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426b9487be8e7f4e8e02efeda350519
+      internalID: 329444318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_197
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80cec63ace8ca4abdd7a27bfcd71e3
+      internalID: 769544905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_198
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca9bc4c4fcd764f89250cb9735216f
+      internalID: 753631058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_199
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c758cfae6297c4fa0afe8fe1725708
+      internalID: 1059972040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_200
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b65d2ab5199847adb212916af20b2
+      internalID: -1445582151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b0002633cbf334b82aeaec20a548f8
+      internalID: -1388120217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0798a43d8f06f44fa70609495927eb1
+      internalID: 1237249737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832476f2541e3d408a5c0e152666473
+      internalID: -1618918890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa063aa11750bdf4ab5eb83202e93b0e
+      internalID: -693622224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_205
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70308d3ee4e37aa4eaf6ab765b1b7ec8
+      internalID: -2035672954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_206
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c4eeb6c267ecd459dc6414081f7be7
+      internalID: 115622352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_207
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980a1d746c79744d9eb555456fc9a6d
+      internalID: 302286026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_208
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2da9ea6d57cd479e90a683850fdd6
+      internalID: -1896139640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_209
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298d0b960e245244ba150271d061b477
+      internalID: 497798936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_210
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14163803922d9c141a1f1432744a73c8
+      internalID: -1803103370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_211
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adc196ea379e14e8c91d9eef27b5ff
+      internalID: 1976509658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_212
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a9635a2b94f147af0ae6ceda00a53
+      internalID: 1151243659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_213
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e263fc1ac760947891111fc07540e7
+      internalID: 1285071692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_214
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814cf39ba99dcb4dba1db1e4c96b6b7
+      internalID: -1950314876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_215
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa8b45893e0894b874be58cf2f478f
+      internalID: -781883638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_216
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a215a85434f61024c99bc4daee21a444
+      internalID: 795870547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_217
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f5d9c980ffe6c45a78e7c5d822d99e
+      internalID: 2070890106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_218
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb80ffb6dc84048b7d995f1eb0e714
+      internalID: -696884935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_219
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc24abbceae81419cb3bb7fb82fbdd
+      internalID: -561595692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_220
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fb13908ddceb54b98e7cc5c0e664ff
+      internalID: 592692936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_221
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450410bd0cc0074f85b4585a1b71440
+      internalID: 1275966064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_222
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9298cf7acf893c46b047b7b4f628eca
+      internalID: -909423934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_223
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9860d18fa376ad242ab2cce7fb57b7b3
+      internalID: -1779222894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_224
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c84d0b31ecdb24aa6f237e446e6839
+      internalID: 501681410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_225
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb3e6f1d2770d648be4e743eb634f19
+      internalID: -722719832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_226
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b275f5f83d8704f9fbe3f6a0be2443
+      internalID: 1369128953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_227
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a89bd402c1fd484494b622940c825ba
+      internalID: -676523145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_228
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587731ee83d4c164c86df6851d4a0567
+      internalID: -652758972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_229
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a7bc29f2058741bb0e6ea349152b3
+      internalID: -1680327484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_230
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b186885c40e444add2efb8e3123b7
+      internalID: -825098243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_231
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17542d799129f34790170bed494a3d2
+      internalID: 1666418312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_232
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144e5daf614ce0f4c9c842d407d08f19
+      internalID: -1320864041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_233
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e84e065d089ba49a3ae997330fa3a1
+      internalID: -2080049266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_234
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3828311a695bb7942a94873b866a4df5
+      internalID: 1493331643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_235
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd7289a4f43e934c9b8e587888b47a1
+      internalID: -296768370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_236
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6467ebc2a87ae2843b43efb2113334e9
+      internalID: 1156924234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_237
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78646ca4779e0fe44b0e070ebc346783
+      internalID: -1536454877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_238
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8004bd37db65843908a94df14c0787
+      internalID: 145479883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_239
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8215fad40f21464c840d303fba19e2e
+      internalID: -252689640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_240
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41710ed252c47324dbc9ec0c00fe3cec
+      internalID: 1428535120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_241
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea92ff64d8a63c4c91052a1ac8e92fb
+      internalID: 849922706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_242
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54054c4a156a8bd4582c2008fec4a71a
+      internalID: -1641890050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_243
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d3f74e19d1b143aea341ae864b978
+      internalID: 1344342616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_244
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873b34044c6e2914f9490c6b4a7c866c
+      internalID: 770768435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_245
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f265db5fb1b03468c414a217673f0e
+      internalID: 1404438790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_246
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ac5d530ffe2b489a2ae6e226066e1
+      internalID: -71978510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_247
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a386550e03f8a54ca060a7bdcb97375
+      internalID: 2114914615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_248
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b73e09117cd84ea60320c3532cbcc
+      internalID: -1915540398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_249
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6018792fa80549a48ab7430ead3c8231
+      internalID: -910729354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_250
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f956f1612d807a446a3cbdc5f57b60f0
+      internalID: 1619394224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_251
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf40c76ed6ba7d49a12a8e0d410b6a8
+      internalID: -1962830772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_252
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cab29ec5762e34d88acf0ee2a47959
+      internalID: 399769497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_253
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ac8c62e97d2344a3d6a6282f3cfa0
+      internalID: -911519157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_254
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b489cbb43385d47a82a3ab65b5a142
+      internalID: -1722995901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_255
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648a2bf40b3e884429f093a9badb7bce
+      internalID: 1264711311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_256
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a6cca674648b41993ef38f6a76fd1
+      internalID: 2094305332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_257
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f022a35d1950d499ac5bfa60fa671e
+      internalID: 2023258239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_258
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2634a80a9b6d546884bc851bf71345
+      internalID: -1280981107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_259
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f1eb646d042674ab2f2a781742c6ad
+      internalID: -1850052270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_260
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea4349ab51a049438d6bd0810359b95
+      internalID: -724823249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_261
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf6816ec1eae541a61355538c011f2
+      internalID: -1277196346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_262
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072ffc843aa272549917026e8103a39c
+      internalID: 861756430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_263
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2280a48e567a34e927857a3cb3a276
+      internalID: 1092371213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_264
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d49f3f1f57c2748bd37a2c780c7c58
+      internalID: -428947027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_265
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b71f3a99b80442abfb6dfa5d782dd
+      internalID: -1590958541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_266
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5710768c213cf44a83b5fd983620a73
+      internalID: -732272784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_267
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1001f6ee316fb924e8b5fb5a1938513e
+      internalID: -190315911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_268
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c399b6310fdd46b62ac9e9d102b11
+      internalID: 1843832163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_269
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea15c0f2b40329f4aab176286a97d5e0
+      internalID: 169145489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_270
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2870f16d81163a7429cd5af552dca7b1
+      internalID: -1098619059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_271
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd1246f3798e944b942fa7dc1424e2
+      internalID: 1017039600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_272
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c6735deddd3b498f8fba28102f4f9
+      internalID: -1247391575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_273
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce39b8302092c47806b94487c26fcf
+      internalID: 1415861538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_274
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac86fc17bc94c409d3e1a75bde8934
+      internalID: 1049483418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_275
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e916a50e829b7144c8d6fa358eb7ea85
+      internalID: -434595078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_276
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d1fd8c9fe7d34d83770288bafde5f
+      internalID: 1230315163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_277
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534f8fcc78fee3c449467a4e1c05f83b
+      internalID: -468674973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_278
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4693801280981348be5828110556e4f
+      internalID: 933373031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_279
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b8d890ea0e7d448c15ad72b259339
+      internalID: -70211627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_280
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c742f03e14ab45853dc2673fa8d8c
+      internalID: -1259198777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Dragon Warrior 4 - Wall Tiles_281
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eea7edadb593d43901ad94bfc7854a
+      internalID: -369224195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Dragon Warrior 4 - Wall Tiles_9: 537728776
+      NES - Dragon Warrior 4 - Wall Tiles_106: 630504460
+      NES - Dragon Warrior 4 - Wall Tiles_114: -84729823
+      NES - Dragon Warrior 4 - Wall Tiles_225: -722719832
+      NES - Dragon Warrior 4 - Wall Tiles_215: -781883638
+      NES - Dragon Warrior 4 - Wall Tiles_87: 2027779728
+      NES - Dragon Warrior 4 - Wall Tiles_91: 317877428
+      NES - Dragon Warrior 4 - Wall Tiles_153: -1947669772
+      NES - Dragon Warrior 4 - Wall Tiles_234: 1493331643
+      NES - Dragon Warrior 4 - Wall Tiles_169: -2102062352
+      NES - Dragon Warrior 4 - Wall Tiles_37: -79736553
+      NES - Dragon Warrior 4 - Wall Tiles_265: -1590958541
+      NES - Dragon Warrior 4 - Wall Tiles_210: -1803103370
+      NES - Dragon Warrior 4 - Wall Tiles_52: 1961870256
+      NES - Dragon Warrior 4 - Wall Tiles_90: -514190829
+      NES - Dragon Warrior 4 - Wall Tiles_81: -1445238811
+      NES - Dragon Warrior 4 - Wall Tiles_21: -642770274
+      NES - Dragon Warrior 4 - Wall Tiles_133: 189679575
+      NES - Dragon Warrior 4 - Wall Tiles_65: -1314329606
+      NES - Dragon Warrior 4 - Wall Tiles_263: 1092371213
+      NES - Dragon Warrior 4 - Wall Tiles_236: 1156924234
+      NES - Dragon Warrior 4 - Wall Tiles_137: -109177492
+      NES - Dragon Warrior 4 - Wall Tiles_171: 2051420384
+      NES - Dragon Warrior 4 - Wall Tiles_250: 1619394224
+      NES - Dragon Warrior 4 - Wall Tiles_110: -2123112339
+      NES - Dragon Warrior 4 - Wall Tiles_20: -2136011921
+      NES - Dragon Warrior 4 - Wall Tiles_226: 1369128953
+      NES - Dragon Warrior 4 - Wall Tiles_26: -640888793
+      NES - Dragon Warrior 4 - Wall Tiles_185: 1988565464
+      NES - Dragon Warrior 4 - Wall Tiles_0: 506940180
+      NES - Dragon Warrior 4 - Wall Tiles_264: -428947027
+      NES - Dragon Warrior 4 - Wall Tiles_151: -1520740212
+      NES - Dragon Warrior 4 - Wall Tiles_61: -1223991466
+      NES - Dragon Warrior 4 - Wall Tiles_258: -1280981107
+      NES - Dragon Warrior 4 - Wall Tiles_271: 1017039600
+      NES - Dragon Warrior 4 - Wall Tiles_276: 1230315163
+      NES - Dragon Warrior 4 - Wall Tiles_79: 1657956375
+      NES - Dragon Warrior 4 - Wall Tiles_48: 347486679
+      NES - Dragon Warrior 4 - Wall Tiles_201: -1388120217
+      NES - Dragon Warrior 4 - Wall Tiles_33: -2088373823
+      NES - Dragon Warrior 4 - Wall Tiles_275: -434595078
+      NES - Dragon Warrior 4 - Wall Tiles_206: 115622352
+      NES - Dragon Warrior 4 - Wall Tiles_222: -909423934
+      NES - Dragon Warrior 4 - Wall Tiles_88: 1911989660
+      NES - Dragon Warrior 4 - Wall Tiles_155: -1262050659
+      NES - Dragon Warrior 4 - Wall Tiles_97: 1290816247
+      NES - Dragon Warrior 4 - Wall Tiles_98: -760106871
+      Floor Tiles: 1711150881
+      NES - Dragon Warrior 4 - Wall Tiles_108: -1792963561
+      NES - Dragon Warrior 4 - Wall Tiles_160: -409847169
+      NES - Dragon Warrior 4 - Wall Tiles_77: -2007434746
+      NES - Dragon Warrior 4 - Wall Tiles_214: -1950314876
+      NES - Dragon Warrior 4 - Wall Tiles_131: -642310335
+      NES - Dragon Warrior 4 - Wall Tiles_223: -1779222894
+      NES - Dragon Warrior 4 - Wall Tiles_204: -693622224
+      NES - Dragon Warrior 4 - Wall Tiles_156: 803169151
+      NES - Dragon Warrior 4 - Wall Tiles_245: 1404438790
+      NES - Dragon Warrior 4 - Wall Tiles_12: 1404354842
+      NES - Dragon Warrior 4 - Wall Tiles_51: -1595262175
+      NES - Dragon Warrior 4 - Wall Tiles_82: 1135080838
+      NES - Dragon Warrior 4 - Wall Tiles_94: 285833223
+      NES - Dragon Warrior 4 - Wall Tiles_278: 933373031
+      NES - Dragon Warrior 4 - Wall Tiles_148: -16798233
+      NES - Dragon Warrior 4 - Wall Tiles_170: 501600684
+      NES - Dragon Warrior 4 - Wall Tiles_217: 2070890106
+      NES - Dragon Warrior 4 - Wall Tiles_75: 1724313125
+      NES - Dragon Warrior 4 - Wall Tiles_134: -803232395
+      NES - Dragon Warrior 4 - Wall Tiles_279: -70211627
+      NES - Dragon Warrior 4 - Wall Tiles_141: 1233985649
+      NES - Dragon Warrior 4 - Wall Tiles_2: -1793840799
+      NES - Dragon Warrior 4 - Wall Tiles_123: 1608621679
+      NES - Dragon Warrior 4 - Wall Tiles_267: -190315911
+      NES - Dragon Warrior 4 - Wall Tiles_165: -1849303217
+      NES - Dragon Warrior 4 - Wall Tiles_54: 163333419
+      NES - Dragon Warrior 4 - Wall Tiles_76: 1000903910
+      NES - Dragon Warrior 4 - Wall Tiles_70: -1304044321
+      NES - Dragon Warrior 4 - Wall Tiles_45: -637130347
+      NES - Dragon Warrior 4 - Wall Tiles_50: 1412484538
+      NES - Dragon Warrior 4 - Wall Tiles_162: -1987277781
+      NES - Dragon Warrior 4 - Wall Tiles_244: 770768435
+      NES - Dragon Warrior 4 - Wall Tiles_163: -2122639045
+      NES - Dragon Warrior 4 - Wall Tiles_178: -1953115769
+      NES - Dragon Warrior 4 - Wall Tiles_99: -107396415
+      NES - Dragon Warrior 4 - Wall Tiles_60: -1177173506
+      NES - Dragon Warrior 4 - Wall Tiles_247: 2114914615
+      NES - Dragon Warrior 4 - Wall Tiles_49: 1219128336
+      NES - Dragon Warrior 4 - Wall Tiles_197: 769544905
+      NES - Dragon Warrior 4 - Wall Tiles_11: 2056453841
+      NES - Dragon Warrior 4 - Wall Tiles_56: -1974234292
+      NES - Dragon Warrior 4 - Wall Tiles_159: 373503156
+      NES - Dragon Warrior 4 - Wall Tiles_161: 1399301768
+      NES - Dragon Warrior 4 - Wall Tiles_266: -732272784
+      NES - Dragon Warrior 4 - Wall Tiles_15: 1349431574
+      NES - Dragon Warrior 4 - Wall Tiles_41: 1325947517
+      NES - Dragon Warrior 4 - Wall Tiles_146: 746899939
+      NES - Dragon Warrior 4 - Wall Tiles_194: 1971524929
+      NES - Dragon Warrior 4 - Wall Tiles_66: 1293224469
+      NES - Dragon Warrior 4 - Wall Tiles_113: -1405174203
+      NES - Dragon Warrior 4 - Wall Tiles_25: 1521476666
+      NES - Dragon Warrior 4 - Wall Tiles_189: -164424731
+      NES - Dragon Warrior 4 - Wall Tiles_102: 176418294
+      NES - Dragon Warrior 4 - Wall Tiles_259: -1850052270
+      NES - Dragon Warrior 4 - Wall Tiles_72: -134555847
+      NES - Dragon Warrior 4 - Wall Tiles_190: -499430934
+      NES - Dragon Warrior 4 - Wall Tiles_124: -311144753
+      NES - Dragon Warrior 4 - Wall Tiles_74: -609296129
+      NES - Dragon Warrior 4 - Wall Tiles_224: 501681410
+      NES - Dragon Warrior 4 - Wall Tiles_116: -1429717097
+      NES - Dragon Warrior 4 - Wall Tiles_122: 1414508653
+      NES - Dragon Warrior 4 - Wall Tiles_59: 642314283
+      NES - Dragon Warrior 4 - Wall Tiles_57: 278306462
+      NES - Dragon Warrior 4 - Wall Tiles_269: 169145489
+      NES - Dragon Warrior 4 - Wall Tiles_30: 1576382852
+      NES - Dragon Warrior 4 - Wall Tiles_164: 1436213450
+      NES - Dragon Warrior 4 - Wall Tiles_219: -561595692
+      NES - Dragon Warrior 4 - Wall Tiles_139: -1639756617
+      NES - Dragon Warrior 4 - Wall Tiles_80: 2063194995
+      NES - Dragon Warrior 4 - Wall Tiles_177: -1954756274
+      NES - Dragon Warrior 4 - Wall Tiles_184: -105923442
+      NES - Dragon Warrior 4 - Wall Tiles_109: -967242368
+      NES - Dragon Warrior 4 - Wall Tiles_213: 1285071692
+      NES - Dragon Warrior 4 - Wall Tiles_211: 1976509658
+      NES - Dragon Warrior 4 - Wall Tiles_38: 1432085180
+      NES - Dragon Warrior 4 - Wall Tiles_5: -1140655048
+      NES - Dragon Warrior 4 - Wall Tiles_101: -170680675
+      NES - Dragon Warrior 4 - Wall Tiles_202: 1237249737
+      NES - Dragon Warrior 4 - Wall Tiles_175: 1591292098
+      NES - Dragon Warrior 4 - Wall Tiles_205: -2035672954
+      NES - Dragon Warrior 4 - Wall Tiles_198: 753631058
+      NES - Dragon Warrior 4 - Wall Tiles_145: 275269014
+      NES - Dragon Warrior 4 - Wall Tiles_121: -1702157066
+      NES - Dragon Warrior 4 - Wall Tiles_229: -1680327484
+      NES - Dragon Warrior 4 - Wall Tiles_140: 1089391529
+      NES - Dragon Warrior 4 - Wall Tiles_174: -1083810287
+      NES - Dragon Warrior 4 - Wall Tiles_83: 1733782604
+      NES - Dragon Warrior 4 - Wall Tiles_144: -1912206452
+      NES - Dragon Warrior 4 - Wall Tiles_84: -1576128769
+      NES - Dragon Warrior 4 - Wall Tiles_28: 1832864565
+      NES - Dragon Warrior 4 - Wall Tiles_71: -2008979403
+      NES - Dragon Warrior 4 - Wall Tiles_46: 1957698255
+      NES - Dragon Warrior 4 - Wall Tiles_105: -1101265145
+      NES - Dragon Warrior 4 - Wall Tiles_34: -408194073
+      NES - Dragon Warrior 4 - Wall Tiles_227: -676523145
+      NES - Dragon Warrior 4 - Wall Tiles_243: 1344342616
+      NES - Dragon Warrior 4 - Wall Tiles_130: -1576878924
+      NES - Dragon Warrior 4 - Wall Tiles_118: -1165828342
+      NES - Dragon Warrior 4 - Wall Tiles_248: -1915540398
+      NES - Dragon Warrior 4 - Wall Tiles_220: 592692936
+      NES - Dragon Warrior 4 - Wall Tiles_235: -296768370
+      NES - Dragon Warrior 4 - Wall Tiles_126: -1279859157
+      NES - Dragon Warrior 4 - Wall Tiles_256: 2094305332
+      NES - Dragon Warrior 4 - Wall Tiles_260: -724823249
+      NES - Dragon Warrior 4 - Wall Tiles_242: -1641890050
+      NES - Dragon Warrior 4 - Wall Tiles_193: 1226197510
+      NES - Dragon Warrior 4 - Wall Tiles_167: 1741829127
+      NES - Dragon Warrior 4 - Wall Tiles_270: -1098619059
+      NES - Dragon Warrior 4 - Wall Tiles_168: -168067990
+      NES - Dragon Warrior 4 - Wall Tiles_221: 1275966064
+      NES - Dragon Warrior 4 - Wall Tiles_107: -1781615075
+      NES - Dragon Warrior 4 - Wall Tiles_24: 867293561
+      NES - Dragon Warrior 4 - Wall Tiles_89: 1023455976
+      NES - Dragon Warrior 4 - Wall Tiles_187: 522608455
+      NES - Dragon Warrior 4 - Wall Tiles_280: -1259198777
+      NES - Dragon Warrior 4 - Wall Tiles_36: -1668666890
+      NES - Dragon Warrior 4 - Wall Tiles_183: 1578714635
+      NES - Dragon Warrior 4 - Wall Tiles_268: 1843832163
+      NES - Dragon Warrior 4 - Wall Tiles_150: 1466938022
+      NES - Dragon Warrior 4 - Wall Tiles_191: -884279350
+      NES - Dragon Warrior 4 - Wall Tiles_196: 329444318
+      NES - Dragon Warrior 4 - Wall Tiles_132: 1685527960
+      NES - Dragon Warrior 4 - Wall Tiles_195: 1726569880
+      NES - Dragon Warrior 4 - Wall Tiles_143: -887252181
+      NES - Dragon Warrior 4 - Wall Tiles_251: -1962830772
+      NES - Dragon Warrior 4 - Wall Tiles_192: -635094075
+      NES - Dragon Warrior 4 - Wall Tiles_200: -1445582151
+      NES - Dragon Warrior 4 - Wall Tiles_240: 1428535120
+      NES - Dragon Warrior 4 - Wall Tiles_239: -252689640
+      NES - Dragon Warrior 4 - Wall Tiles_93: -1375087757
+      NES - Dragon Warrior 4 - Wall Tiles_29: -745783083
+      NES - Dragon Warrior 4 - Wall Tiles_115: -1917652330
+      NES - Dragon Warrior 4 - Wall Tiles_203: -1618918890
+      NES - Dragon Warrior 4 - Wall Tiles_55: -733490800
+      NES - Dragon Warrior 4 - Wall Tiles_62: 864421168
+      NES - Dragon Warrior 4 - Wall Tiles_39: 1225330153
+      NES - Dragon Warrior 4 - Wall Tiles_17: -431805108
+      NES - Dragon Warrior 4 - Wall Tiles_68: -1568173951
+      NES - Dragon Warrior 4 - Wall Tiles_166: 661906489
+      NES - Dragon Warrior 4 - Wall Tiles_152: -1999783939
+      NES - Dragon Warrior 4 - Wall Tiles_119: -1641390292
+      NES - Dragon Warrior 4 - Wall Tiles_129: -1181477851
+      NES - Dragon Warrior 4 - Wall Tiles_147: 1637288107
+      NES - Dragon Warrior 4 - Wall Tiles_179: -900528419
+      NES - Dragon Warrior 4 - Wall Tiles_58: -774507560
+      NES - Dragon Warrior 4 - Wall Tiles_138: 1807332591
+      NES - Dragon Warrior 4 - Wall Tiles_135: 1006657526
+      NES - Dragon Warrior 4 - Wall Tiles_173: -978673286
+      NES - Dragon Warrior 4 - Wall Tiles_230: -825098243
+      NES - Dragon Warrior 4 - Wall Tiles_22: -959290708
+      NES - Dragon Warrior 4 - Wall Tiles_233: -2080049266
+      NES - Dragon Warrior 4 - Wall Tiles_103: 472100438
+      NES - Dragon Warrior 4 - Wall Tiles_117: 1808101752
+      NES - Dragon Warrior 4 - Wall Tiles_18: 1038199178
+      NES - Dragon Warrior 4 - Wall Tiles_1: -2100082179
+      NES - Dragon Warrior 4 - Wall Tiles_149: 2097523999
+      NES - Dragon Warrior 4 - Wall Tiles_232: -1320864041
+      NES - Dragon Warrior 4 - Wall Tiles_120: 882760627
+      NES - Dragon Warrior 4 - Wall Tiles_176: -1829530093
+      NES - Dragon Warrior 4 - Wall Tiles_231: 1666418312
+      NES - Dragon Warrior 4 - Wall Tiles_182: -876852582
+      NES - Dragon Warrior 4 - Wall Tiles_86: -1782658785
+      NES - Dragon Warrior 4 - Wall Tiles_64: 1402924899
+      NES - Dragon Warrior 4 - Wall Tiles_6: -321335936
+      NES - Dragon Warrior 4 - Wall Tiles_157: -1414145000
+      NES - Dragon Warrior 4 - Wall Tiles_19: 1944674154
+      NES - Dragon Warrior 4 - Wall Tiles_209: 497798936
+      NES - Dragon Warrior 4 - Wall Tiles_85: 989663829
+      NES - Dragon Warrior 4 - Wall Tiles_127: 1445521290
+      NES - Dragon Warrior 4 - Wall Tiles_73: 2021419062
+      NES - Dragon Warrior 4 - Wall Tiles_8: 821234196
+      NES - Dragon Warrior 4 - Wall Tiles_96: 1115529782
+      NES - Dragon Warrior 4 - Wall Tiles_188: -846153614
+      NES - Dragon Warrior 4 - Wall Tiles_158: 1576283811
+      NES - Dragon Warrior 4 - Wall Tiles_281: -369224195
+      NES - Dragon Warrior 4 - Wall Tiles_199: 1059972040
+      NES - Dragon Warrior 4 - Wall Tiles_180: -1923690789
+      NES - Dragon Warrior 4 - Wall Tiles_128: 1873001826
+      NES - Dragon Warrior 4 - Wall Tiles_40: 1072323689
+      NES - Dragon Warrior 4 - Wall Tiles_241: 849922706
+      NES - Dragon Warrior 4 - Wall Tiles_47: 2106761002
+      NES - Dragon Warrior 4 - Wall Tiles_67: 1430898965
+      NES - Dragon Warrior 4 - Wall Tiles_111: -391429529
+      NES - Dragon Warrior 4 - Wall Tiles_95: 426691007
+      NES - Dragon Warrior 4 - Wall Tiles_78: -2096569418
+      NES - Dragon Warrior 4 - Wall Tiles_13: -1887312169
+      NES - Dragon Warrior 4 - Wall Tiles_142: 1019664320
+      NES - Dragon Warrior 4 - Wall Tiles_181: -1445092429
+      NES - Dragon Warrior 4 - Wall Tiles_4: -1016155241
+      NES - Dragon Warrior 4 - Wall Tiles_7: -1954419409
+      NES - Dragon Warrior 4 - Wall Tiles_273: 1415861538
+      NES - Dragon Warrior 4 - Wall Tiles_35: 649672670
+      NES - Dragon Warrior 4 - Wall Tiles_216: 795870547
+      NES - Dragon Warrior 4 - Wall Tiles_44: -1315372737
+      NES - Dragon Warrior 4 - Wall Tiles_27: -666136420
+      NES - Dragon Warrior 4 - Wall Tiles_69: 1144894537
+      NES - Dragon Warrior 4 - Wall Tiles_207: 302286026
+      NES - Dragon Warrior 4 - Wall Tiles_53: 1444092998
+      NES - Dragon Warrior 4 - Wall Tiles_10: -2049076349
+      NES - Dragon Warrior 4 - Wall Tiles_16: 1632731707
+      NES - Dragon Warrior 4 - Wall Tiles_237: -1536454877
+      NES - Dragon Warrior 4 - Wall Tiles_125: -315827988
+      NES - Dragon Warrior 4 - Wall Tiles_136: -137827567
+      NES - Dragon Warrior 4 - Wall Tiles_154: -1891601798
+      NES - Dragon Warrior 4 - Wall Tiles_100: 558110717
+      NES - Dragon Warrior 4 - Wall Tiles_104: 240938072
+      NES - Dragon Warrior 4 - Wall Tiles_218: -696884935
+      NES - Dragon Warrior 4 - Wall Tiles_262: 861756430
+      NES - Dragon Warrior 4 - Wall Tiles_257: 2023258239
+      NES - Dragon Warrior 4 - Wall Tiles_238: 145479883
+      NES - Dragon Warrior 4 - Wall Tiles_246: -71978510
+      NES - Dragon Warrior 4 - Wall Tiles_272: -1247391575
+      NES - Dragon Warrior 4 - Wall Tiles_212: 1151243659
+      NES - Dragon Warrior 4 - Wall Tiles_42: -879579204
+      NES - Dragon Warrior 4 - Wall Tiles_32: 829484205
+      NES - Dragon Warrior 4 - Wall Tiles_172: 1293973273
+      NES - Dragon Warrior 4 - Wall Tiles_112: 1129437114
+      NES - Dragon Warrior 4 - Wall Tiles_255: 1264711311
+      NES - Dragon Warrior 4 - Wall Tiles_249: -910729354
+      NES - Dragon Warrior 4 - Wall Tiles_23: -829141078
+      NES - Dragon Warrior 4 - Wall Tiles_277: -468674973
+      NES - Dragon Warrior 4 - Wall Tiles_63: 1134823746
+      NES - Dragon Warrior 4 - Wall Tiles_43: 144093573
+      NES - Dragon Warrior 4 - Wall Tiles_253: -911519157
+      NES - Dragon Warrior 4 - Wall Tiles_14: 1640564298
+      NES - Dragon Warrior 4 - Wall Tiles_261: -1277196346
+      NES - Dragon Warrior 4 - Wall Tiles_228: -652758972
+      NES - Dragon Warrior 4 - Wall Tiles_208: -1896139640
+      NES - Dragon Warrior 4 - Wall Tiles_254: -1722995901
+      NES - Dragon Warrior 4 - Wall Tiles_92: 677115358
+      NES - Dragon Warrior 4 - Wall Tiles_252: 399769497
+      NES - Dragon Warrior 4 - Wall Tiles_274: 1049483418
+      NES - Dragon Warrior 4 - Wall Tiles_3: -535199693
+      NES - Dragon Warrior 4 - Wall Tiles_186: 1366677685
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
